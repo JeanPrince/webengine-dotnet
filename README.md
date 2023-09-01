@@ -51,4 +51,4 @@ Feel free to reach us if you want to adopt the Framework, report Bugs, or have g
 + https://github.com/AxaFrance/webengine-java
 + Main contributor:
     + Joseph ARUL [<img src="src/AxaFrance.WebEngine.Doc/images/github.svg" width="16" />](https://github.com/josepharul82)
-    + Jean-Prince DOTOU-SEGLA [<img src="src/AxaFrance.WebEngine.Doc/images/github.svg" width="16" />](https://github.com/JeanPrince)
+    + Jean-Prince DOTOU SEGLA [<img src="src/AxaFrance.WebEngine.Doc/images/github.svg" width="16" />](https://github.com/JeanPrince)
