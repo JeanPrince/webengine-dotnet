@@ -42,7 +42,7 @@ on:
   push:
     branches: [ "feature/NoCode" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "feature/NoCode" ]
 
 jobs:
 
